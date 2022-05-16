@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Linear_search-Searching_for_an_array_in_an_array" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Linear search/Searching for an array in an array" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Phone Book" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Linear search/Searching for an array in an array">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Linear search/Searching for an array in an array/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Linear search/Searching for an array in an array/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Linear search/Searching for an array in an array/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

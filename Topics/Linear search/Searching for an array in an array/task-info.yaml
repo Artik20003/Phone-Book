@@ -1,0 +1,16 @@
+type: dataset
+files:
+- name: data/sample/input.txt
+  visible: true
+  text: |
+    0 4 8 0 6 1 4 8 0 7
+    3 2 9 0 6 9 2 2 5 7
+  learner_created: false
+- name: src/Main.kt
+  visible: true
+  text: "// write your code here \n\nfun main(args: Array<String>) {\n  // put your\
+    \ code here\n}\n"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16617#comment
+status: Unchecked
+record: -1
